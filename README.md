@@ -9,7 +9,7 @@ This project provides a detailed analysis of the company's data with a focus on 
 - **Category 3:** Danceability metrics for popular tracks.
 - **Category 4:** Track performance and popularity.
 
-An interactive Tableau dashboard showcasing sales trends and performance can be explored [here](#).
+
 
 ---
 
@@ -22,9 +22,9 @@ The company's primary database consists of the following four tables:
 - **Table 3:** Metrics – Danceability, energy levels, and other characteristics for tracks.
 - **Table 4:** Streams – Streaming data broken down by region and platform.
 
-The database holds a total of **2 million records** across these tables.
 
-[Insert Entity Relationship Diagram here]
+
+
 
 ---
 
@@ -39,7 +39,7 @@ The overarching findings of this analysis reveal the following:
 
 These insights provide actionable recommendations to improve track promotion and enhance user engagement.
 
-![Spotify Dashboard Screenshot](Screenshot_360.png)
+![Spotify Dashboard Screenshot](images/Screenshot.png)
 
 ---
 
@@ -52,7 +52,7 @@ These insights provide actionable recommendations to improve track promotion and
 - **Main Insight 3:** Popular tracks often exhibit energy levels exceeding 60%, appealing to younger demographics.
 - **Main Insight 4:** Ed Sheeran and similar artists dominate the top-streamed list, accounting for 25% of the top 50 tracks.
 
-[Insert visualization specific to Category 1.]
+
 
 ### Category 2: Stream Distribution by Release Year
 
@@ -61,7 +61,7 @@ These insights provide actionable recommendations to improve track promotion and
 - **Main Insight 3:** Older tracks (pre-2000) still attract niche audiences, though streams are significantly lower.
 - **Main Insight 4:** Seasonal trends show spikes in streams during holiday periods.
 
-[Insert visualization specific to Category 2.]
+
 
 ### Category 3: Danceability Metrics for Popular Tracks
 
@@ -70,7 +70,6 @@ These insights provide actionable recommendations to improve track promotion and
 - **Main Insight 3:** "Blinding Lights" by The Weeknd exhibits an ideal balance of danceability (85%) and energy (70%).
 - **Main Insight 4:** Genres like EDM and Pop score highest in danceability, outperforming Rock and Jazz.
 
-[Insert visualization specific to Category 3.]
 
 ### Category 4: Track Performance and Popularity
 
@@ -78,7 +77,6 @@ These insights provide actionable recommendations to improve track promotion and
 - **Main Insight 2:** Release timing plays a significant role; summer releases tend to perform better.
 - **Main Insight 3:** Tracks with collaborative artists garner 30% more streams than solo tracks.
 - **Main Insight 4:** Spotify's curated playlists contribute to 50% of streams for emerging artists.
-
 [Insert visualization specific to Category 4.]
 
 ---
